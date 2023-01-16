@@ -1,0 +1,20 @@
+.End{
+    text-align: center;
+    background-color: rgb(5, 5, 65);
+    color: white;
+    margin: 2%;
+    padding: 10%;
+}
+
+.End h1{
+    font: 24px;
+}
+
+.End button {
+    background-color: rgb(203, 203, 221);
+    color: rgb(0, 0, 0);
+    text-align: center;
+    padding: 20px;
+    font-size: 18px;
+    font-weight: bold;
+}
